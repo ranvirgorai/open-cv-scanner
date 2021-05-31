@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_47292de5a4908d39ad40c51b3dc47969ada92b66.jar" />
+    </item>
+    <item
+        jar="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_1f754fed54a08dfaa4a23d1bbdfc1ec7a18c9829.jar" />
+    </item>
+    <item
+        jar="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_6ae81ec27488fe13f6afc3db854019b1db2675e6.jar" />
+    </item>
+    <item
+        jar="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/exploded-aar/ImageScanner/scanlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a26ede186f3383134b3a6597975ec68d7250f901">
+        <dex dex="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/pre-dexed/debug/ImageScanner-scanlibrary-unspecified_74930df9ae54eddbc2328acbe1356cf4f6458ff0.jar" />
+    </item>
+    <item
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/ranvir/appdata/AndroidStudioProjects/ImageScanner/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_1cd1039154f1bb9cc0d4a9da3e8b7ec509fd8b06.jar" />
+    </item>
+
+</items>
